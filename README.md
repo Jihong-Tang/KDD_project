@@ -8,15 +8,10 @@ This is the repository to store the codes and materials in the KDD group project
 
 
 > Hello~ from Jihong
-
 > Hello~ from Jiabao
-
 > Hello~ from
-
 > Hello~ from
-
 > Hello~ from
-
 > Hello~ from
 
 
