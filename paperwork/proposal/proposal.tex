@@ -1,0 +1,242 @@
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt]{article}
+
+\input{structure.tex} % Include the file specifying the document structure and custom commands
+
+%----------------------------------------------------------------------------------------
+%	Proposal INFORMATION
+%----------------------------------------------------------------------------------------
+
+\title{Classification of the COVID-19 related audio data} % Title of the assignment
+
+\author{COMP5331 Course Project Group 2 } % Author name and email address
+
+\date{Hong Kong University of Science and Technology --- \today} % University, school and/or department name(s) and a date
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle % Print the title
+
+%----------------------------------------------------------------------------------------
+%	Basic Information
+%----------------------------------------------------------------------------------------
+
+\section{Basic Information} 
+\subsection{Project information}
+The project title is the same as the title of this proposal and other project and 
+group informations could be followed in Table \ref{tab1}.
+\begin{table}[!htbp]
+	\caption{Project and group information} \centering
+	\label{tab1}
+	\begin{tabular}{ccc}
+	\toprule[1.5pt]
+	Project topic  & Project type & Group number \\
+    \midrule[1pt]
+    Classification & Implementation & 2 \\
+	\bottomrule[1.5pt]
+	\end{tabular}
+\end{table}
+
+\subsection{Group memeber information}
+Group 2 consists of  six group members: CHAO Chung-chi, LI Jiabao, MO Zongchao, TANG Jihong, 
+WANG Yubo, YANG Lingyun. The detailed information about these members could be shown as 
+following. 
+
+\begin{member}
+	\begin{enumerate}[(a)]
+		\item Student ID: 20562119
+		\item Student Name: Chung-chi CHAO
+		\item FYP supervisor: Prof. Shing-Chi CHEUNG
+		\item FYP topic and explanation: \\
+		My FYP topic is deep testing of DNN systems. We are aiming to provide a set of detection criteria to uncover faults in DNN systems especially in the data aspect. The work will mostly be focused on designing and implementing rules to detect and categorize potential data faults given an input dataset, which is not related to this group project.
+		\item Declaration statement: \\
+		I declare that this project is done solely within the course but not other scopes.
+	\end{enumerate}
+\end{member}
+
+\begin{member}
+	\begin{enumerate}[(a)]
+		\item Student ID: 20718615
+		\item Student Name: Jiabao LI
+		\item Research supervisor: Prof. Jiguang WANG
+		\item Research topic and explanation: \\
+		My research topic is to uncover the evolution process within biology, mostly in cancer genomics and radiomics. I am working on the simulation and the calculation of the brain tumor in the aspect of machine learning, which is not related to the group project.
+		\item Declaration statement: \\
+		I declare that this project is done solely within the course but not other scopes.
+	\end{enumerate}
+\end{member}
+
+\begin{member}
+	\begin{enumerate}[(a)]
+		\item Student ID: 20755950
+		\item Student Name:  Zongchao MO
+		\item FYP supervisor: Prof. Jiguang WANG
+		\item FYP topic and explanation: \\
+		Computational biology. My research focuses mainly on computational biology. We analyze cancer genome sequencing data to identify both germline and somatic genome alteration contributing to tumorigenesis and development. And we use computational methods to investigate the dynamic expression change during cancer treatment.
+		\item Declaration statement: \\
+		I declare that this project is done solely within the course but not other scopes.
+	\end{enumerate}
+\end{member}
+
+\begin{member}
+	\begin{enumerate}[(a)]
+		\item Student ID: 20815724
+		\item Student Name: Jihong TANG
+		\item Research supervisor: Prof. Jiguang WANG
+		\item Research topic and explanation: \\
+		As one first year PhD student, my research topic has not been focused. But my supervisor and my lab have focused on brain tumor related computational  methods development and data analysis. Therefore, my future research work will be related to the brain tumor with a high probability, which is not related with the course project.
+		\item Declaration statement: \\
+		I declare that this project is done solely within the course but not other scopes.
+	\end{enumerate}
+\end{member}
+
+\begin{member}
+	\begin{enumerate}[(a)]
+		\item Student ID: 20840755
+		\item Student Name: Yubo WANG
+		\item Research supervisor: Prof. Lei CHEN
+		\item Research topic and explanation: \\
+		Knowledge Extraction. The knowledge extraction procedure is a way that we could obtain information and data from sources like web pages or html files. Because the data contained in the data sources are usually not formatted, therefore we develop various methods or algorithms to extract them. Hence my research topic is nothing related to the classification work.
+		\item Declaration statement: \\
+		I declare that this project is done solely within the course but not other scopes. 
+	\end{enumerate}
+\end{member}
+
+\begin{member}
+	\begin{enumerate}[(a)]
+		\item Student ID: 20715584
+		\item Student Name: Lingyun YANG
+		\item Research supervisor: Prof. Wei WANG
+		\item Research topic and explanation: \\
+		My research interests include machine learning for systems, cloud computing and resource management for large-scale clusters. Currently, I am working on the research mainly about resource management for large-scale gpu clusters. In this project, our group chooses a topic on COVID-19 cough classification, which is different from my own research.
+		\item Declaration statement: \\
+		I declare that this project is done solely within the course but not other scopes.
+
+	\end{enumerate}
+\end{member}
+
+%----------------------------------------------------------------------------------------
+%	Project description
+%----------------------------------------------------------------------------------------
+
+\section{Project description} % Numbered section
+\subsection{Background}
+Since December 2019, the coronavirus disease 2019 (COVID-19) has been the health hotspot 
+worldwide. Caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), COVID-19
+ has been highly transmissible and spread fast around the whole world. Since 2021, variants 
+ of the virus have emerged and become dominant in many countries, with the Delta, Alpha and 
+ Beta variants being the most virulent. By the writing time of the proposal, COVID-19 has
+  confirmed cases exceeding 228 million world-wide\cite{enwiki:1044966507}. Different variants of the virus gave 
+  them the ability to survive under the pressure of vaccines. Despite the global vaccination,
+   the COVID-19 has caused more than  4.68 million deaths, making it one of the deadliest 
+   pandemics in history.\\
+
+\noindent
+The diagnosis of COVID-19 is made primarily by direct detection of SARS-CoV-2 RNA by nucleic 
+acid amplification tests (NAATs). In addition to the direct detection method, multiple methods 
+focusing on the fast, easily-accessible and possible contactless diagnosis of COVID-19 have 
+been developed by the research and industry community. Among which, the usage of cough sound 
+collected from smartphone apps, trained with machine learning or deep learning models, for 
+detecting and classifying COVID-19 has become popular recently\cite{PPR:PPR343330}. The cough sound based 
+diagnosis method shows its advantage in different areas. Firstly, it may decrease the 
+demands for facilities and resources compared to NAAT methods, such as medical supplies 
+and experienced workers. Secondly, it may decrease the transmisible risk for its contactless 
+data collection procedure. \\
+
+\noindent
+However, more data preprocessing and modeling development work needed to be done to increase 
+the accuracy of such methods. Therefore, we propose to put our focus on the diagnosis method 
+based on cough sound in this course project. We aim to implement the most popular classification 
+models in related papers, and give our own evaluations based on their performances. 
+
+\subsection{Data preprocessing}
+To fulfill our aim, the coswara dataset[3] is used in our project. The coswara data has the public 
+part and the private part. For the released coswara data, the metadata and the audio of the 
+participants can be found in github (https://github.com/iiscleap/Coswara-Data) or Kaggle 
+(https://www.kaggle.com/janashreeananthan/coswara). Updated in Sept 14th, 2021, the coswara 
+dataset includes the audio data with 40 different dates, and about 4000 samples are collected. 
+For the audio data, the breathing sounds, cough sounds, and phonation sounds are recorded. 
+For the metadata, the age, gender, location, health status, and the related medical information 
+of each participant are preserved in the coswara dataset.\\
+
+\noindent
+However, there is still a long way to go on using the cough audio straightforward to classify 
+the different labels. In our project, we are going to utilize the audio information as the 
+features and the meta information as the labels to fulfill our classification of the COVID-19 
+audio. In the audio preprocess step, the digital signal processing methods in the references 
+[4]and the related package (https://github.com/jameslyons/python\_speech\_features) will be 
+applied to our project so as to get the formatted input features. After that step, the distribution 
+of the public coswara dataset (including the features and the labels) will be visualized by the 
+statistical and dimensional reduction methods.  \\
+ 
+\subsection{Modeling work}
+(LI)After the data preprocessinbg work, the classification models can be applied to the formatted 
+dataset to explore the potential subgroups of the COVID-19 cough audio. For the variational autoencoders (VAE) model, 
+the encoder and the decoder are included in the model, which are popular model in the audio and 
+music areas [5]. The VAE model may also be able to classify our coswara dataset with multiple 
+clinical labels, and the VAE model will be implemented by packages such as pytorch and keras.\\
+
+\noindent
+(YANG)Compared to Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs) can better 
+model sequences of data since they are able to handle a variable-length sequence input. 
+In recent research work [1, 2], RNNs have already been adopted for COVID-19 cough classification. 
+A Gated Recurrent Unit (GRU) is a gating mechanism in RNNs [3], which is similar to long 
+short-term memory (LSTM) but has fewer parameters. It has been shown that GRU can achieve better 
+performance on certain smaller and less frequent datasets [3]. In this project, we will include 
+GRU model in the comparison to evaluate its performance on COVID-19 cough classification.
+Similar to RNNs, transformer [5] is designed to handle a variable-length sequential input data. 
+This machine learning model has been widely used in many fields, such as computer vision and 
+natural language processing. The key of its success is the adoption of the attention mechanism, 
+which differentially weighs the significance of each part of the input data and empower the model 
+to focus on important areas. Without using any RNN structure, transformer can achieve dominant 
+performance when handling the sequential data. We will also apply the transformer to COVID cough 
+classification to evaluate its performance.\\
+
+\noindent
+(WANG)The GRU (Which stands for the gated recurrent unit) was proposed by [1], it can make each recurrent
+ unit adaptively capture dependencies of different time scales. The GRU has gating units which 
+ modulate the information flow inside the unit, however, it does not have any separate memory cells. 
+ Based on the experiment of [2], the GRU mostly achieves comparable performance to the LSTM, sometimes 
+ even better performance on some datasets in terms of convergence in CPU time and parameter updates and 
+ generalization.\\
+
+ \noindent
+(CHAO)VGGish [1] is an audio classification model that adopts the structure of VGG [2], which is a 
+convolutional neural network originally used for image classification. VGG was the first runner-up of 
+ILSVR2014 in the ImageNet classification task. There are slight modifications to the architecture of 
+VGGish compared to that of VGG, including the input size being changed to better meet the needs of 
+log mel spectrogram inputs, dropping the last group of convolutional and maxpool layers, and using 
+a 128-fully connected layer instead of a 1000-fully connected layer. As VGGish was trained on a large 
+collection of audio data, AudioSet [3], VGGish is commonly used as a feature extractor to convert 
+raw audio inputs to 128-D embeddings. The pre-trained weights are also publicly available. \\
+ 
+\noindent
+There has been previous work adopting VGGish extracted features, handcrafted features, and combined
+ features to classify respiratory sounds [4]. There has also been previous work on lung sound 
+ recognition using VGGish and bidirectional GRU [5]. In this project, we aim to leverage VGGish to 
+ distinguish between covid cough sounds and non-covid cough sounds. \\
+
+ \noindent
+(MO)Transformer-CP is a model enabling contrastive pre-training. A contrastive learning method can 
+benefit from large batch size and can avoid overfitting problems in the downstream network. By 
+introducing a random masking mechanism, the feature encoder would be more robust. The masking 
+generator generates a masking matrix 𝑀 with a specific masking rate. Based on the masking matrix 
+and the masking rate, some of the inputs are randomly masked and removed from the attention calculation 
+in the Transformer. The loss function used in this phase for contrastive learning is a multi-class 
+cross-entropy function working together with the similarity metric.\\
+
+\noindent
+In the end, we will compare different models by the same metrics to evaluate this classification 
+problem, such as the common metrics[]. Eventually, by comparing the performance of the models which
+ we have implemented, the potential suggestions on diagnosis methods or detection COVID-19 by audio 
+ information may also be given in the final part of our project.
+
+
+\newpage
+\bibliography{KDD}
+\end{document}
