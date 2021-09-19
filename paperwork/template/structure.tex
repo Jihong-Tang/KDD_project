@@ -31,8 +31,7 @@
 \lstset{
 	basicstyle=\ttfamily, % Typeset listings in monospace font
 }
-\usepackage{booktabs}
-\usepackage[sort&compress,numbers]{natbib}
+
 %----------------------------------------------------------------------------------------
 %	DOCUMENT MARGINS
 %----------------------------------------------------------------------------------------
@@ -168,38 +167,6 @@
 }
 
 %----------------------------------------------------------------------------------------
-%	NUMBERED MEMBER ENVIRONMENTS
-%----------------------------------------------------------------------------------------
-
-% Usage:
-% \begin{member}[optional title]
-%	member contents
-% \end{member}
-
-\mdfdefinestyle{member}{
-	innertopmargin=1.2\baselineskip,
-	innerbottommargin=0.8\baselineskip,
-	roundcorner=5pt,
-	nobreak,
-	singleextra={%
-		\draw(P-|O)node[xshift=1em,anchor=west,fill=white,draw,rounded corners=5pt]{%
-		Group Member \theMember\memberTitle};
-	},
-}
-
-\newcounter{Member} % Stores the current question number that gets iterated with each new question
-
-% Define a custom environment for numbered questions
-\newenvironment{member}[1][\unskip]{
-	\bigskip
-	\stepcounter{Member}
-	\newcommand{\memberTitle}{~#1}
-	\begin{mdframed}[style=member]
-}{
-	\end{mdframed}
-	\medskip
-}
-%----------------------------------------------------------------------------------------
 %	WARNING TEXT ENVIRONMENT
 %----------------------------------------------------------------------------------------
 
@@ -258,6 +225,3 @@
 }{
 	\end{mdframed}
 }
-
-
-\bibliographystyle{unsrt3author}
