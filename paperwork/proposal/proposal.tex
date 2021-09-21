@@ -42,9 +42,9 @@ group information.
 	\end{tabular}
 \end{table}
 
-\subsection{Group memeber information}
-Group 2 consists of  six group members: CHAO Chung-chi, LI Jiabao, MO Zongchao, TANG Jihong,
-WANG Yubo, YANG Lingyun. The detailed information about these members could be shown as
+\subsection{Group Information}
+Group 2 consists of six group members: CHAO Chung-chi, LI Jiabao, MO Zongchao, TANG Jihong,
+WANG Yubo, YANG Lingyun. The detailed information about these members is as
 follows.
 
 \begin{member}
@@ -77,7 +77,7 @@ follows.
 		\item Student Name: Zongchao MO
 		\item FYP supervisor: Prof. Jiguang WANG
 		\item FYP topic and explanation: \\
-		Computational biology. My research focuses mainly on computational biology. We analyze cancer genome sequencing data to identify both germline and somatic genome alteration contributing to tumorigenesis and development. And we use computational methods to investigate the dynamic expression change during cancer treatment.
+		Computational biology. My research mainly focuses on computational biology. We analyze cancer genome sequencing data to identify both germline and somatic genome alteration contributing to tumorigenesis and development. And we use computational methods to investigate the dynamic expression change during cancer treatment.
 		\item Declaration statement: \\
 		I declare that this project is done solely within the course but not other scopes.
 	\end{enumerate}
@@ -89,7 +89,7 @@ follows.
 		\item Student Name: Jihong TANG
 		\item Research supervisor: Prof. Jiguang WANG
 		\item Research topic and explanation: \\
-		As one first year PhD student, my research topic has not been focused. But my supervisor and my lab have focused on brain tumor related computational  methods development and data analysis. Therefore, my future research work will be related to the brain tumor with a high probability, which is not related with the course project.
+		As a first year PhD student, my research topic has not been focused. But my supervisor and my lab have focused on brain tumor related computational  methods development and data analysis. Therefore, my future research work will be related to the brain tumor with a high probability, which is not related with the course project.
 		\item Declaration statement: \\
 		I declare that this project is done solely within the course but not other scopes.
 	\end{enumerate}
@@ -152,9 +152,9 @@ For the audio data, the breathing sounds, cough sounds, and phonation sounds are
 For the metadata, the age, gender, location, health status, and the related medical information of each participant are preserved in the coswara dataset.\\
 
 \noindent
-However, there is still a long way to use the cough audio straightforward to classify the different labels. In our project, we are going to utilize the audio information as the
+However, there is still a long way to straightforwardly use the cough audio to classify the different labels. In our project, we are going to utilize the audio information as the
 features and the meta-information as the labels to fulfill our classification of the COVID-19
-audio. In the audio preprocess step, the digital signal processing methods in the references \cite{mohammed2021ensemble} and the related package (https://github.com/jameslyons/python\_speech\_features) will be applied to our project so as to get the formatted input features. After that step, the distribution of the public coswara dataset (including the features and the labels) will be visualized by the statistical and dimensional reduction methods.  \\
+audio. In the audio preprocessing step, the digital signal processing methods in the reference \cite{mohammed2021ensemble} and the related package (https://github.com/jameslyons/python\_speech\_features) will be applied to our project so as to get the formatted input features. After that step, the distribution of the public coswara dataset (including the features and the labels) will be visualized by the statistical and dimensional reduction methods.  \\
 \begin{figure}[htbp]
     \centering
     \includegraphics[width=.8\textwidth]{jiabao.png} % requires the graphicx package
@@ -171,9 +171,9 @@ dataset to explore the potential subgroups of the COVID-19 cough audio.
 
 \subsubsection{VAE}
 For the variational autoencoders (VAE) model,
-the encoder and the decoder are included in the model, which are popular model in the audio and
+the encoder and the decoder are included in the model, which is a popular model in the audio and
 music areas \cite{girin2020dynamical}. The VAE model may also be able to classify our coswara dataset with multiple
-clinical labels, and the VAE model will be implemented by packages such as pytorch and keras.
+clinical labels, and it will be implemented by packages such as pytorch and keras.
 
 \subsubsection{VGGish}
 VGGish \cite{Chao1st} is an audio classification model that adopts the structure of VGG \cite{Chao2nd}, which is a
@@ -201,7 +201,7 @@ modulate the information flow inside the unit, however, it does not have any sep
 Based on the experiments \cite{Wang2nd}, GRU mostly achieves comparable performance to LSTM, sometimes
 even better performance on some datasets in terms of convergence in CPU time and parameter updates and
 generalization. It has been shown that GRU can achieve better
-performance on certain smaller and less frequent datasets \cite{Yang4th}. 
+performance on certain smaller and less frequent datasets. 
 In this project, we will include
 GRU model in the comparison to evaluate its performance on COVID-19 cough classification.
 
