@@ -16,7 +16,7 @@ def load_data(data_path, slide_window=96, bin=26):
             for path3 in Path(path2).glob('*.dat'):
                 df = pd.read_csv(path3, header=None)
                 for item in df.min():
-                    if item < -20:
+                    if item < -20.0:
                         skip = True
                         break
                 if skip:
