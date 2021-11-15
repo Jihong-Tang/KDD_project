@@ -67,14 +67,23 @@ if __name__ == '__main__':
             y_true_binary[i] = 0
 
     # calculate the metrics and print
-    print([precision_score(y_true, y_pred, average='micro'),
-    recall_score(y_true, y_pred, average='micro'),
+    print([precision_score(y_true, y_pred, average='weighted'),
+    recall_score(y_true, y_pred, average='weighted'),
     accuracy_score(y_true, y_pred),
-    f1_score(y_true, y_pred, average='micro')])
-    print([precision_score(y_true_binary, y_pred_binary, average='micro'),
-    recall_score(y_true_binary, y_pred_binary, average='micro'),
+    f1_score(y_true, y_pred, average='weighted')])
+    print([precision_score(y_true_binary, y_pred_binary, average='weighted'),
+    recall_score(y_true_binary, y_pred_binary, average='weighted'),
     accuracy_score(y_true_binary, y_pred_binary),
-    f1_score(y_true_binary, y_pred_binary, average='micro')])
+    f1_score(y_true_binary, y_pred_binary, average='weighted')])
+    
+    # calculate the roc
+    y1_test_onehot = np.zeros((y1_test_saved.shape[0],18))
+    for i in range(y1_test.shape[0]):
+        y1_test_onehot[i, labelDict[y1_test_saved[i]]] = 1
+    roc_auc_score(y1_test_onehot, pret_label, multi_class= 'ovr')
+    multi_score = np.array(pret_label)
+    roc_auc_score(y_true_binary, np.sum(multi_score[:, healthyRange], axis=1))
+    roc_auc_score(y1_test_onehot, pret_label, multi_class= 'ovr')
 
     # print the latent space
     plot_label_clusters(vae, x_test, pd.DataFrame(y1_test)[0].astype('category').cat.codes)
