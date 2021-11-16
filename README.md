@@ -25,8 +25,15 @@ The data we are using is collected from the article of ...
 
 # Model
 
+The models are as follows:
+
+- VAE
+- GRU
+- LSTM
+- VGGish
+- transformer
+
+
 # Result
 
-# ...
-
-Test
+# References
