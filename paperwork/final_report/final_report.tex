@@ -337,11 +337,36 @@ The common model structure of LSTM is shown in Figure \ref{fig:lstm_structure}. 
 	\end{minipage}
 \end{figure}
 
-The commonly used deep learning frameworks are Tensorflow, PyTorch, etc. Here, we use PyTorch to complete the model part of the implementation, and make use of open source Python libraries such as scikit-learn and numpy to process and slice the data. The first dimension represents the number of time frames of the audio data, and the second dimension is the frequency bin. In the actual training process, we trim the audio data by truncating 96 consecutive frames from them to facilitate the training of the model and to avoid overfitting. Similar to the previous model, we treat the label with a healthy covid\_status as 1 and the rest as 0 as a binary classification problem. In particular, we compress the data with pickle in order to avoid reading the file frequently during each training, and only need to process the data for the first time, and only need to load the processed data directly during training and debugging. For the selection of model hyperparameters, we tried various combinations and finally used 4 LSTM layers with a hidden layer of 64 dimensions (Figure \ref{fig:implemented_lstm_based_structure}).
+The commonly used deep learning frameworks are Tensorflow, PyTorch, etc. 
+Here, we use PyTorch to complete the model part of the implementation, and 
+make use of open source Python libraries such as scikit-learn and numpy to process and slice the data. 
+The first dimension represents the number of time frames of the audio data, 
+and the second dimension is the frequency bin. In the actual training process, 
+we trim the audio data by truncating 96 consecutive frames from them to 
+facilitate the training of the model and to avoid overfitting. 
+Similar to the previous model, we treat the label with a healthy covid\_status as 1 and 
+the rest as 0, which indicates a binary classification problem. 
+In particular, we compress the data with pickle in order to avoid reading the file frequently 
+during each training, and only need to process the data for the first time. 
+We can easily load the processed data directly during training and debugging. 
+For the selection of model hyperparameters, we tried various combinations and 
+finally used 4 LSTM layers where each hidden layer has 64 dimensions (Figure \ref{fig:implemented_lstm_based_structure}).
 
-To make the results easy to reproduce, we fixed random seeds from common libraries such as PyTorch, numpy, and random. To shorten the training time of the model, we trained the model on a NVIDIA GeForce RTx 2080 Ti GPU with a total of 200 epochs, which can be run in dozens of minutes. The initial learning rate was set to 0.001, and several experiments showed that setting a higher learning rate resulted in the model failing to converge.
+To make the results easy to reproduce, we fixed random seeds from common libraries 
+such as PyTorch, numpy, and random. To shorten the training time of the model, 
+we trained the model on a NVIDIA GeForce RTx 2080 Ti GPU with a total of 200 epochs, 
+which can be run in dozens of minutes. The initial learning rate was set to 0.001, 
+and several experiments showed that setting a higher learning rate resulted 
+in the model failing to converge. The batch size is 32, Adam optimizer is used to 
+optimize the parameters and cross entropy is used to evaluate the loss of the model.
 
-Compared to the complex models such as BERT \cite{devlin2018bert} and GPT \cite{floridi2020gpt} that are emerging in the field of natural language processing (NLP), the LSTM model is relatively simple, but at the same time has the advantage of not requiring a large amount of data for pre-training and the difficulty of simulating convergence is relatively low. The experimental results in Table \ref{tab:cmp_model} show that the LSTM model can achieve 0.7179 accuracy, 0.7342 precision, 0.8871 recall, 0.8035 F1 score, and 0.6452 ROC-AUC score on Coswara dataset.
+Compared to the complex models such as BERT \cite{devlin2018bert} and GPT \cite{floridi2020gpt} 
+that are emerging in the field of natural language processing (NLP), the LSTM model is relatively simple, 
+but at the same time has the advantage of not requiring a large amount of data for pre-training and 
+the difficulty of simulating convergence is relatively low. The experimental results in 
+Table \ref{tab:cmp_model} show that the LSTM model can achieve 0.7179 accuracy, 0.7342 precision, 
+0.8871 recall, 0.8035 F1 score, and 0.6452 ROC-AUC score on Coswara dataset. 
+The higher recall value indicates that the trained LSTM model is less likely to miss unhealthy samples.
 
 \subsection{VGGish}
 
@@ -506,7 +531,14 @@ find out the VGGish model was the best.
 
 \paragraph{Lingyun YANG}
 
-In this project, I was responsible for the implementation of the LSTM model and its application to the coswara dataset for classification and prediction of audio data. My in-depth reading of the references helped to provide a deeper understanding of the existing coswara dataset to effectively carry out model construction as well as metric evaluation. By continuously testing the structure and hyperparameters of the model, a relatively good performing LSTM model was trained. In addition, I was responsible for the integration and review of the project report, handling the citation format, and finally presenting everyone's results in latex form.
+In this project, I was responsible for the implementation of the LSTM model and 
+its application to the coswara dataset for classification and prediction of audio data. 
+I also helped to provide a deeper understanding of the existing coswara dataset 
+through an in-depth reading of the references to effectively carry out model construction 
+and indicator evaluation. By continuously testing the structure and hyperparameters of the model, 
+a relatively good performing LSTM model was trained. In addition, I was responsible 
+for the integration and review of the project report, handling the citation format, 
+and finally presenting everyone's results in LaTex form.
 
 \newpage
 \bibliography{KDD}
