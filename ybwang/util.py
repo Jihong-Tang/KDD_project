@@ -28,7 +28,8 @@ def load_data(data_path, slide_window=96, bin=26):  # 如果出现小于-20情�
                 df_temp = df[:index_cut]
                 df_temp['id'] = id
                 total_data = total_data.append(df_temp, ignore_index=True)
-            total_data.to_csv('dataset\\{}.csv'.format(id), index=False)
+            if not skip:
+                total_data.to_csv('dataset/{}.csv'.format(id), index=False)
 
 
 def label_preprocessing(data_path):  # 预处理label
@@ -37,9 +38,9 @@ def label_preprocessing(data_path):  # 预处理label
     data_label.drop('record_date', axis=1, inplace=True)
     for key, item in data_label.iterrows():
         if item['covid_status'] == 'healthy':
-            data_label.loc[key, 'covid_status'] = 1
-        else:
             data_label.loc[key, 'covid_status'] = 0
+        else:
+            data_label.loc[key, 'covid_status'] = 1
     data_label['ep'] = LabelEncoder().fit(data_label['ep']).transform(data_label['ep'])
     data_label['g'] = LabelEncoder().fit(data_label['g']).transform(data_label['g'])
     data_label['l_c'] = LabelEncoder().fit(data_label['l_c']).transform(data_label['l_c'])
@@ -58,6 +59,7 @@ def dict_slice(adict, start, end):
 def preprocess_table(path, data_label):  # 预处理table，将label整合
     dict_data = {}
     for i, data_path in enumerate(Path(path).glob('*.csv')):
+        #print('Read data path {}'.format(data_path))
         dataset = pd.read_csv(data_path)
         if not dataset.empty:
             dict_data_temp = {}
