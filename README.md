@@ -15,13 +15,15 @@ This is the repository to store the codes and materials in the KDD group project
 > Hello~ from
 
 
-# Topic
+# Topic and Title
 
-The topic is about the classification.
+Topic: classification.
+
+Title: COVID-19 Classification Based on Cough Sound
 
 # Data
 
-The data we are using is collected from the article of ...
+The data we are using is collected from Coswara (citation)...
 
 # Model
 
@@ -33,7 +35,14 @@ The models are as follows:
 - VGGish
 - transformer
 
-
 # Result
+
+# Example to run
+
+Some descriptions: >>>
+
+```
+python runTest.py
+```
 
 # References
