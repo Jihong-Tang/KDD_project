@@ -48,22 +48,14 @@ def train_model(train, batch_size, epochs):
                     if len(list(batch_tensor.size())) == 1:
                         continue
                     # print('Tensor size: {}'.format(batch_tensor.size()))
-                    out_put = gru(batch_tensor)
-                    loss = criterion(torch.squeeze(out_put), labels)
+                    out_put = gru(batch_tensor.to(device))
+                    loss = criterion(torch.squeeze(out_put).cpu(), labels)
                     optimizer.zero_grad()
                     loss.backward()
                     optimizer.step()
                 else:
                     batch.append(data_input.values.tolist())
     return gru
-
-
-def val(model, data, labels):
-    model.eval()
-    for index in tqdm.tqdm(range(96, len(data), 96)):
-        data_input = data[(index - 96):index]
-        out_put, data_id = model(data_input)
-        result = get_labels(out_put, data_id)
 
 
 def test_model(model, data):
@@ -77,8 +69,8 @@ def test_model(model, data):
         for index in tqdm.tqdm(range(96, len(dataset), 96)):
             data_input = torch.tensor(dataset[(index - 96):index].values, dtype=torch.float)
             label = torch.tensor([labels])
-            data_input = torch.unsqueeze(data_input, 0)
-            out_put = torch.squeeze(model(data_input), 0)
+            data_input = torch.unsqueeze(data_input, 0).to(device)
+            out_put = torch.squeeze(model(data_input), 0).cpu()
             res.append(max(torch.squeeze(out_put).detach().numpy().tolist()))
             y_true.append(label.numpy().tolist()[0])
             _, out_put = torch.max(out_put, 1)
@@ -91,7 +83,6 @@ def test_model(model, data):
     recall = cm_value[0][0] / (cm_value[0][0] + cm_value[1][0])
     f1 = 2 * precision * recall / (precision + recall)
     # print('Accuracy: {}, Precision: {}, Recall: {}, F1: {}'.format(accuracy, precision, recall, f1))
-    print('Confusion_matrix: {}'.format(cm_value))
     return accuracy, precision, recall, f1, roc_auc
 
 
@@ -102,7 +93,7 @@ def setup_seed(seed):
 
 
 if __name__ == '__main__':
-    # util.load_data('distribution/')
+    util.load_data('distribution/')
     setup_seed(0)
     data_label = util.label_preprocessing('combined_data_clean2.csv')
     dict_data = util.preprocess_table('dataset/', data_label)
@@ -117,4 +108,4 @@ if __name__ == '__main__':
     accuracy, precision, recall, f1, roc_auc = test_model(gru, test)
     print(gru)
     print(
-        'Accuracy: {}, Precision: {}, Recall: {}, F1: {}, Roc_Auc: {}'.format(accuracy, precision, recall, f1, 1-roc_auc))
+        'Accuracy: {}, Precision: {}, Recall: {}, F1: {}, Roc_Auc: {}'.format(accuracy, precision, recall, f1, roc_auc))

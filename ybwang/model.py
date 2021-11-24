@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import torch
 import torch.nn as nn
-from torchviz import make_dot
 
 
 class GRUModel(nn.Module):
@@ -24,10 +23,3 @@ class GRUModel(nn.Module):
         out, hn = self.encoder(result0)
         result = self.fc(out)
         return result
-
-if __name__ == '__main__':
-    x=torch.rand(10,96,31)
-    gru=GRUModel()
-    y=gru(x)
-    g=make_dot(y)
-    g.render('GRU_model',view=True)

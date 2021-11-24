@@ -2,11 +2,15 @@ import pandas as pd
 import tqdm
 from pathlib import Path
 import math
+import os
 from sklearn.preprocessing import LabelEncoder
 
 
 def load_data(data_path, slide_window=96, bin=26):  # 如果出现小于-20情况跳过当前音频文件
     # total_data = pd.DataFrame(columns=[str(i) for i in range(bin)].append('id'))
+    folder = os.path.exists('dataset')
+    if not folder:
+        os.makedirs('dataset')
     for file_path in tqdm.tqdm(list(Path(data_path).iterdir()), desc='Date'):
         file_path = file_path.absolute()
         path1 = Path.joinpath(file_path, file_path.stem)
