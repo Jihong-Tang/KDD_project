@@ -1,0 +1,1656 @@
+{
+ "data": [
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/BZHvK60v1LY9cBfLvYkBkJxdfNz2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/BauEFEXAglbZSSgJEYGF4FqluZG3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Bb9OMQWb3GNbJDH4gANBkWJ4Ihs1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/BdJTNoebc9X4fQNSUGhjBVVADvr2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/BfkSf0P6WcOlQW1jfLuLKEPusF82.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/BjSaOnCo37bIz4AgpvWPiAYqwzA3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Bjp6S2aILuesK2yOZQIG06WliTM2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/BoCrMaxD7DVdo0nXNl14zk8ycR52.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/BvSvfAT0dRRNGX7n6wmIpOlp7W12.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/ByJgkN2PApVkDJfUN5wp1gUuxt52.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/ByeE6FPls3S20RP7vxsLDkmqpA32.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/ByvAxiKJC5QyNZi2YJu6GyZYgPs1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/C0PAlMWS2ISkQSKPHBsLIxWWWSI2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/C1Jk83bZcXQM2lljEqVIr6OfMr83.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/C1h80BY2J5eZgP3UMb4PTJXyKWy2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/C1jXleNkfzaI6sbPJL883EGGRLj2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/C4DdlIxnpLRtDrdGt97s67gtVJo2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/C4Ide6Om9iaGO281jPr2JkYtjWi1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/C5eIsssb9GSkaAgIfsHMHeR6fSh1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/C63gG5RK0mWMFKI33VweDdYCk4O2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/C7Q6zEVYAZR7yC0DeDQVIYqfWCi2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CA1MC050dVMX7ZOSRVYqYQKD2gF3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CAf8ILsDpQMeTPPLwi7nFlgRT2t1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CAlwzhQrNYT72NAfkAOpXNoLJrM2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CDJLmx0CWdNRiAvgFwn2aHonth43.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CEn02KlCBsUgUqUmf5BfUgaITG33.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CFkIEzwZ5PcogCElOD2K3RJQzmh1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CFwFsoyLtGUxPNPw5vMD7cznAnO2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CGGk5Y7thvXSCYhDX0e4yPN7g5R2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CGXh77ubexNuv0UUmOHVCnAgurY2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CRrk6OagJdebILgQWEGKDZXzi7z1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CStOCq03YfgBopyDsibRbZlahm13.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CTnnDvwNIYTb6tn1b3kX2rLYaiJ3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CU6Sqlt8NfMboou9neSzsyNLyKD2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CUCqq4q5SQa3fDkpraekej7fNza2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CZT9HTBNgaQrTVKBjIBUtlu6Dgx1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Cb1UXUhOX3NROXt2kJejtFBbtSF3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CbcXlISWX6QO53j2LN51KavaaBz2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Cd7fkliPM2ZUM1skytvoU2vD8jK2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CjVKAdiAXkdaeNfQ7O9VWBrSpLl2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CkBv7ZLYRIcugw93mPtPkbWxC412.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CkDhDGNX3iWEqDFJZXn9FrxPxYF3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CpB4mhP3leTMxJdDG3cD3xMN2AI3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CrlV0ddIqdbtxNnkIhtPS5dvoX42.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/CwGGsPFeFQPwRy8ba33e8SXGS132.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Cxk4DW9S6fQhB2mafs7RBT6HCLt1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/D1d4hc9MrgTDxgAhqpTgqOEJtLp2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/D246kD9hgaasRxrRMzEaQSkft032.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/D2bMfCAvvSPj39z6fMToDFRh2rB3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/D31ydMgq8wMpO9OOGwxpMfOp9qg1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/D5aq6FUMeCQal79ePD7UZniIyF12.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/D8gFH60PUrfFJEG2wXhvPCeTRCq1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/D9EEvq1ksqN6PEWzIAy7Mu5e8jJ3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DBRoQFTQR2dq3OQAMYmPcFsbReH2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DCTTU4q664ROLrpqFatjOKllp9i1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DENlXZFYsCVXEC46LmTfiEUyVCa2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DES9AsgsFdVdBotRJ6R46C4tc9c2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DGWrVMD5yZc5jcjMzblC4kaBLmK2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DINJ1hI4xpQ0fcf7TsZN4pjXrol2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DIaVEL0f1kXNG6KXgBMEQ54yirD3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DIzDEYclGHggfip2pfT4yW484bF2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DOzTO5ZjEsMTQLN81GZHEzxTbnj2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DQbyjZoEh1chrWRqOkPrUsxvqpv2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DRBAZX64nuVtqBQf13gH7r36Mh52.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DRoZujDy6CWVFL0UefbHEgCcD2l2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DT3eTAupOCRU40MK7cj8ZhzCoB53.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DTvGOScaAzWfSBXf8B8uF916AKP2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DVdBgadmkvN8uJy0Q1kPTOBdUhu2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DXIw27Fbg6PgosoH84rFPOVaQ5q2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DYiC8Ym6NBgFGQMSLy104RVs4b43.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DZmX1dGK8KdmY3WYQFuCXrVWuhk2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DeMaRSg6lVO7oA6v9HK3mbWjr3r2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DggrWUKwrkOXgR2B6v13vKEB1hi1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Dj0W2BYly4ZgQCCyCznEhLH5sYG2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DmKc9V8ZeqQBMqOaGMDZ3mvRIY13.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DpU572tPYaXZXMglBud6sRIaq8y2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DqztVX8gWrOi4il3xouSTV4FwyC3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DrwbGqSB9ggZBBYhsyS1fm2YzPB2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DsEh7p2DEgWLuhbSTrqgQnTJJjC2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DtJl7zpcS5NjbdMwBA0mVinAANt1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DwCHgxHJFhf0nAqiQfHS3lycTuv2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/DyTzbmRR0fUyEJVRIaBEvqksiCC3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/E2F521LDB7aZdAkwmcfDb2CLQ7l2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/E3WOlLhxnnXVcE0KOFvydjAPmKH2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/E3X8YtvZzYZiXwBevZEAByJc2v63.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/E3gn7SKrMhOK49iJSeIAEa1s7Kb2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/E3nlERKGBPcSO2PjEDJ6GrRKiy73.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/E8foKQD2BqYfZjFhdhknvaDp3Ot2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EAj5X2nQbNhAzPOqXj28BgI9Wpp2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EAqrht1aIXZSoBIuuULWnWTjwQr2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EBJVTXGpKucYUqz7evI887oS1162.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EJSbChF4LfPisqLxlUqiwYU7zy83.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/ELTqUBJoR4MPBzMZH3yL6yLMc283.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/ELY1myVdysXxF7aQWOXX9iZm75z2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EPA8c37Cb5e2aaUfisoVCzoxMnT2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/ETcnGsA5gNUC1t3cXJY6KXLvF7W2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EUjlCZyR0xMbOH31Je8knI3UdKO2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EVEnOepr9yaACgz1aJgRRoNpqaw1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EVWPvD070lhgBsNRXIJ0TsQj3iz2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EXFN8iHqxjXW7ApntIPI2qxQiMz2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EXTWYCHCzyc8k6PE2L7fAqqAudA2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EZzVAG1b5ef8VopTkIROvVbYGml1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EaZfxkcnIWgsPfPW2XfFTjh7GQk2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EbWP0XeMpnbrTsljro0dOGKIell1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EcO51zxmIHcVtAUlxnvO6wA8JcR2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Ed1ZsgwOyYcEnpPXOXKPQd1QaS62.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Eg87yvzTcTOSRHlObK3w0ju4Ej82.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EiXN9D41sOZRBpHVHCLq3QUpKrq1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Eik9USYv51RYy1mxzPOGxPLhn4o1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EkvdE7B9zuaZEHjb80RflGGqsgz1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/El8HRprt4FVF6QG4dHoKLFbARSc2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EnEYPaPTh9SeTTD55fxFRNPItqI2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Eoyf44CUffgVCPPjJJkopEyAO7k2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EqDWckxbsETyHUeBLQ8jLtxlhir2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Eu11s84cuBTiPXTAtVf9mj3GkqA2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EuEoeANAhadcy5vzBikn3LxlGKh1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EucWZQ2KbbQ74NhWqnrUEuS7pU53.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/EyzoLFEmr5dK0ifWxP8HdCypw4r1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/F2sQBi45ZdZMn8gQdcQB5wklMct2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/F349Of1rExaZ82Od6sp2jEzInKj1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/F5zeWi4QqdP2EMOX8P1LacSKaAD2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/F6QzdFvGdwarlCWLBfsrGJ5Vgci1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FA82s56D4CP2QAkUpv7Zlbz95NW2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FBdqiwdp4Kc7PpyUkLBM9qMSo2k1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FCo8orfgs5ZKKQV4T436XCoycht2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FGRDO4IBbAejR0WHD5YbkXTCasg2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FIgw7gymskPu3RGgk3Q6GeSH7yB3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FJJZziCGb0bv5h7JlSKaOSXDdOH2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FLNZB0Us1PgOdXLJUC4tmsvRrH43.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FLhjsgqrgQMKwNt5iEryxG5sDlW2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FMN8G22OUWaL81KxCmgyDVFxa8m1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FNYflY4qOecrSQOzynZ1WDQZfCJ3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FNjPKyX47sUuQlzMc1urJ3VB3YE3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FQ9gUWPXRGc9z7Q4f3tMojFVrR82.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FRMCCawVGmh3acxTrxgPFn7M7zB2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FSzobvJqOXf0rI6X05cHqOiU9Mu2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FYINlRe3mfOO34R8QcT3skESVRl1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FYXJ3Brvf1Wi8YdILInJ19dSiJM2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FYqsLjb8gjOLhrB64aWUc53KVVf2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FabhqSqtVOSswlym1jLjDOsiqHC2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FeB6iRqlySRwFJHpnIiaokSvWeC2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Fh3hBZZRh2UXXicTNGMei8ikbSu2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Fi2lLmV3LHR5brvXs0z1JSKDvnI2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Fi4TZCxqYqMvq8ncC4aYajCVRcz1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Fohk6SJxcJVo4rtuGD6PMwJ9qTQ2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Fps26Qa60WYbR5pI15KzNKSeLXG2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Fsy78EiP9pOaFmMc6VjdI30SMvV2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Ft82dZ2O4PMuq64dPIEVik9upMr2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FtDju4lrx4PqJCMCo9zctj7IFnV2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Fuj8ConlkeNoRot2tyMMyzYCKfo2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Fx2gbIoPlJXrK5OD8FMeepOGlLa2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FxxDIIr8jQRkvmA2rqn9rUGGXlI2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/FzJhVfH5jFOJ4hf1CWLSQOo8csD3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/G3iIP9QRHPTItOsK6lpEMd6IQKw1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/G4xAP3eXB5WetgfSrKSQuwBwy663.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/G5kUP2QOpVSyjK6Q9rzblmTU9vW2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/G5wWAa7nvkOR9QvfsAt7tsd5qa82.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/G8f3XmmcaXb2ZZ2ov4Z5r2vOLaK2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GANtY5XDqOUFMC2lEizSdBuainB2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GBZ88OAxQfg6NBTxjDRI0Pf59mq1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GBwlY1I67YdQ47ceNFdpK87kEr33.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GE5qvqLgiZRrDreK2Hv1ppWVrQp1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GEPcHiIXaSVyNNL5sqIBZxytIps1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GGGztp5BbtgwQ7McufNdfMAvSFv1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GKhkkTlN0PdIgHoEtwXlRlCqMd13.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GLIDHIQIWigOOPXUqR9SYKIN2v83.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GMjhTrVkYsfH4RWjGFLCskzNnys2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GSetkkCdEWe7ZoUia8WEkILrlkc2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GWjZnz8QWXXGzHLaG0HNHFyeZgS2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GZM32y1Sy6X9D9hfrrvpTdPfmoV2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Gcs79sztbbauDn62MJa2xq2jrqT2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GjdjAvKrnbRRRX1KbioknjMVLNx2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Gkp0AAA7iJakBNaPSDfnA5eEUoN2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GoGf76VxSgOiEBDUkcP7LONacII2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GpkFX9qB33ZsvFG4HWQHkOMWjFW2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GrE7GAhI8UUX1BK0QHOBGLvOQJb2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Gs2gwBq34aMMglNC9jqGHS3ZzIs1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GuL97vIwJgQudwa7mdoEh33JZnr1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GuZQNW2ktwaUr8OxHPLN0iVGy2G2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/GzhrTQhWHSTwvweRKx2x1Uh4wx52.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/H0tBSJN5l8db5f6xB2yMm6QxjFO2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/H1Ml5J5BxFT5aJB3687GpncQjOi2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/H2taWn5GjlQJaBy2Fvw3yp3zabg2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/H3sxaOqiOSgbKWig7NdWEPgrm6f2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/H6bxcGub1wOdaWWZ7kyk8KYuswf1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/H8O1z8p8LlQWSI98eGl4X7RtLPD2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/H9aG9NV6Wae3ATv7xapsyAYdIJy2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HATVkqrdXhV2eIiwy5iIP7V0bjo2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HCsgRpbj4vdEXoAjjSDJj9vQFbB2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HDZ7Et3VldU238svx2iusUhQ16p2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HEO2NpZOfrMmtHr9dwoEI9KZBUO2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HHCj7IHQxUYQua8B2MKoCVtRWK63.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HHKpf1D4mWga1lxwcxAQjZAqELv2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HHXDoqaHN1QbtSZkgu37f38RGqh1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HJP1QvC3s2cTtjBRHQic5Y1EBGj1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HK3FfcI5SyXc7CtQMaQiMQ2ia1n2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HLrE1Z2wnQSraudLRqiWgR154rA3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HN3yAvicf4RTVGb6l0PjM41iBAn2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HNQHvssRu1QD9oJKikpEcT8ENjX2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HPLBB8nluUMo7eX4zG5SmAnOhmu2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HRtlc2Oedzd7Q70BgFjlJGMbyPL2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HS29AHf2AIhz8129o1BTxPfaFPT2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HSgMHc61GdN0PC5BSzR6X96yzZw2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HSj0b9JLMjVfqxpQi1s6OVQXkZw1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HTD3EP8qEaXAvotjoqVsC25Sbk02.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HTYeSgQx0TcOekPlmxF7AwDgMJq1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HYGtUoMDukOlfkkQ7rgRPhuKorA3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HZUzZEqeQMVXTrcxtytbLSjvP353.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HaeKJrHeBqgwClDs0LHG7oT6fHs1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Hb9DrqUzdCfKOQWYs4T85y3S3Rl1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HbNxPjxeM0eJ4Int3oPmitr1ezh2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HdJdEWQecehLzEQcyDV7vjr85C82.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Hge7rEPBdLcy4ckCtvUFfl4p0Ne2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HhIoOCxCe1Z02gC8qa7RsZZ8Vz23.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Hl3DXvP5aMhh2JhHFE0K2ofITyl2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HltnpdE31PPFAFYRdJXRXokmdUF2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HmLWj3LIICf3jJshJCvZPdw7S1I2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HmsAhPiHhiQOnvXYXzZ5u5qFqLq1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HozkJppklgfmmKBIdt5AdujpMtu1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HqILRgOnPoYTBOwV923xNysDhA82.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Hsd2XPLTHxa0q43WgjzaQl22cB42.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HtCYru78WihN83VInC0etddLCv62.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HwUhcAKwJIeckUi86cbzb3sTr5m2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Hx0gMpwXrbhBp9SV7clzSDQ50EM2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HxbOUFGbq4fKbs0nTLUQ5UmlZ9y2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/HzgkwPpnW5dgFMdHNxRhazx4el23.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/I11YsKcNytZ27XLyt5yKhxMyLZV2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/I61f49auZgdsWBUYQq4BQ5gRwaC2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/I6Mjl4neEPMnMH16WVW6oTG860L2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/I90bUGzBTMZpwCnA4eWqzKkq3362.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/I9Nm8cGaL5OB4fnmDPM8HrnULVj1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IA47R6m1qMbEqlv31Gf5sjN91cA2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IBjSkzn7W6WpVSw49EXPM2ME75t2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IDotbUiFVpel1SpaktjKZftIVYx2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IFMid2LmeCTSQAFaL8wTSUg20No2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IG629UPMI0SQe0tpOKcTKCnQYr82.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IH5AenjC1DTmH4Rw4PhvnaKHbmw2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IHOunHyVaoO7AR6Z0QJgIa31BvS2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IIKtjdSBHDUkAzLMBs6n3SLbR8Y2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IP6mdjKfmKNgsLLT110MkgGvWK02.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IQ7tfWcSsRXGe0J94ouY9rsTB8V2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IQJWFucM7GbQ00iw3lt2UvBFzaW2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IQSMEGOrc3XegUpIARWm07D2K2a2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IS3AoZuo0cXtuYb2aDWkrIWTciP2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IUMKHMLvwOWdQgn7cbonw36vNzF2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IVQDOUP0a8cwMvCkp1TnZ1FI88Z2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IWZidWG1Y3aIbwBNfyR5P9rt0O82.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IWzorx5D61cvjQayXyugGNVlQsj1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IYNMqzUgqfdUnKv5uRtM4BOnOBq2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IbHJbk0Rz4QkL9zRJzb28SEDxJj1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Icj21hlLQ5ZwFOgpuekc0Bn7Ucy1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Id2BHKfccpS2K8eOtrXRKjBAsds1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IhtkrMM4uwVdjhaOiK1NJttf8pM2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IimA0GnOm7ZR4nEr8k0kG4eaR7A3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IjI3eQUHkrYdJSB4nWeXeNoryNl2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IkdWn0v3dAU9eWzsf3rY8Dwgf0V2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IkwAlxsvmhXfpi9seBDU6rksY7C2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IlMV1V7sPvWocD6uBo0aVqpfuIQ2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/ImU3ZpdqkRPNAy6Ol61zoGuq8sj1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IsIdeIoBfHQ8nzRoAi93NjpFij52.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/ItB1KcAWo8Y8Cy59mt262mXYxXU2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IvPA6FZJ5OSNOllqglmE2mkcnz83.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IwdtdPMreWTA8nzpEkgfkGWZTTm1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/IxdOYraXjNXf620JP1hexb3YDJ93.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Iz9X0QRimVT2R7AGhD6jZM0ryPp1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/J1YTIleE4HWC6wCg1gIC1N4Hgw13.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/J2KBR20S1lOfFS2iA7UyuOBOmgq1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/J5QGEKLK87d2dASH0umWBDzJ12P2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/J7R2UkId7jU0aOSw5amaS8zJVIm1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/J88lvfqwdhSF124B97PL8XHvUnp1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JBHTkiv6VFfqC5oKSbfhSYwQ0Sv2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JCDtX8bUuMbQNeh7SkMjavkAgVv2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JCnMZyujiFf0m2QpwIlpld2ISDF3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JHMWpOobBsPMkI2Z9bN8BOgec902.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JIafPire6JYhDR73srLG2xmrdJk1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JJAEXqn68kVaaOsFjX7n5Qehaws1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JLXdsKrUesSLpwUOMSqQFfYwtZ82.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JNTWsYYQjzMMOsmFMml8OXjHYx92.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JOimE3qKkOWxkKYIDBvIpXgQ9HJ3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JQyIFoDDO1fwOuEH0GaOFskQ90q1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JSTw4Jhqo9dgB9tTfhSdMCdJCjN2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JUTgBmtV3PabkG7XQANi7iHlUBy2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JUzBsjVXNFPslTzz5G3x2cZ6JFg2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JXP97RVyVfVXVqOPULghR8pY3q32.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JcXAvo6g3GYZOJe6VnzkeqH0OmS2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JdSI3od4d4Ug8bkVyX2HWSC28fv1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JdsUKe6JKBdfU7NZC6KeU0z2xKh1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JeM753cUNJdIV37vCj94583kYCE2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JecvGmjPyEVl7y6fupTTp6QZvoJ2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JhH2YMg1TpWG7RqVv3jOTXFmJZt2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JiWX55SWdOeOspm0SChcEMFURkJ2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JjncXsOMMaPo5yrlpzWuhYrygFd2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JmN2KXZoEThB2e8KFMbM7L4fOwy1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JqVURYFKRWXXcxYNrqGTVte8IIJ3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JsCOI2xZdUUPfRRAQSPvvamW9wg2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JsTOkdqknPeCRi6i63Cfu1ciuuh2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JtJEMsy1XPalUgUWmzkLyq9LWbI2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JuzR5zpE9HU3NsFabIcz4Kkp0Ag1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Jw7YMfwGqMX22UbHh1TTgYMTYWs1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JxSb6sEnk0RC9NPyET9sCpJ3OqN2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/JxtCdZIjW1VjLM92IYEhw3xz3pS2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Jz4Ct4GvrVPZUJlPOL7htkozn4v2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/K0LmigcBKlRdTAlrCyfmBJaQJwk1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/K3kwl6reCLNR8G0Al3zNQVztRri2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/K47g4iQ9QkbvE4jLFcgRMDRUyah1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/K5SeTDLlXVQ0U5sl17KluTKEOKJ3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/K8QeHIukfghK4kOQx8LnffbLWP12.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KFQ0ksPwkDcLUUjbVBYWGWr9ei62.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KFtd9lY6jph5cl2VrZ9Nv8Jng7p1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KGWBaTNrJmUgzGZw5Xh2ICSHVu92.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KHP3hql1ScXYRbOQJ7anrZXTiad2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KJQP1HlxlwfYbc7ogIxZ2Hklyym2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KL32QXSSnLZlRRT2B6rQQQKgpx12.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KLjaX6zFZccy7YNw6CQ3fkzzwkt1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KNoT33BrSIfmsHryE9UR2TgfDew1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KOKCooQejva2hnY3f1LnxqL4gUR2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KRMavQOQ3OZanXv3MJSpga1x1b82.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KTaxfghl8TeziY3aZmaNxNFmUqj1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KVKLfU8zZ1MEywuVYflH2KYOHr52.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KXQDb2qDnpTQTTqx3JivfvB8zz83.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KYFep4QYHeTdetDl8dhMl0je3ux1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KZdnTmkwssQ2Af6nPy8Ih8EkQ6v1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Kbvj1H92OLaeQy0YWHkPGvaH0hw2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KcO2p01LdYga7563y95BkKII9Dh1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Kck5aZ8dc5N49j8UPNqpsoHrKgA2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Kj5Pw7GpqlhOhtfYKysgdFZcijG3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KjPE6JknuWfX4UQtWrWP0h21Bmo2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KjtasLncY7ZFQf5Hx25UJ4A3NGF2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KmMFugVd4Pa4fZW9FqWFcHBVovf2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KnZ1QsM9c8UoOBXrbt4qassreFj1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KoN8x5OLC9fxkriFn7LVIONyMdy2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KoVhPh3wszMRh4pyxUzNhhSwxyX2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KqhQ8Eo62fYCdBse8NiW1BYCtxp1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KySjVqQmk0evZBDzxtR59YHuV222.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/KzArWjCjApUOIz69TPVaZxSKQ6W2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/L4CfZQwjukPm0evQv5dI2JDH4ov1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/L5tZkFTeajV4uDCQnvbWLNoG5az1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/L6Bo4rMk15fKste9Gvn7ZyTB4qw2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/L6ScULj3LRPFLYdvs8HdWpzhkdp1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/L6zbMqqGS1et0kjPXmSsLUI3vz22.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/L7S8iIPKgiO6QWLC3mGkROCMa0s1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/L9QbDvX4UtMhFOsYuh2aamY3VK23.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LAGGMvR7ScbjwTmMYBbEBfWRcN93.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LBNOC0NrwANadd7m4SVO9cT0dyH2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LC266EVhXoa7KP4o3naQ6oZczml1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LCa0jYXkxJZ7JUJC262jrqy0Zao2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LElWV2QtC5fwpqpIdAFEmaLX3Aw1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LF7wSEDpWafkz5bwtxnFuho9iWz1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LG9JXKoSkeN9IHceg9xruqw1yt23.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LGiTXwr1u8YlLpxd1nvTlhGCZJn2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LJ7VSEWnDqb3lPknPM9Q64zjdof1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LPP0njvvovO1Wi3wq9IcMxJVyau1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LShW1854ahW9IMubCKJH9L3Kdxh2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LTk52ATmpEVOJSTjuNtEZHJx6943.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LVfs0kH8h3YRSg7J3Y8g3ufC3a53.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LW6U5C8CENR1PsmldatYGdCBcYg1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LYJToDRYDZfpjBuNC6YkUcphr0q1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LasObOSE2kQYWhWkA7WimXxhwUE2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Lf4G1rx8lufXdBBwEZnD4INFtUt2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LgYYFGtyzPU0ikZ0eE5ZgzNNZUY2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Lo9OvxpnOmSsMC0qy4rwtXVamU13.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LqGeCxef4fN4IPanKEbWkO1fAwJ3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LtqbA3mrmKN4wsTG0sEoPl6fAfB2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LuWrKc4LBRWEfrsF2sCdR7o57m12.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LwOBSX8F07Z5HgRGLFS3aOQEVKk2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LwfZvk9xa6bAJbz4wQGEcyoDOmL2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LyCZNUHMdqQtXwEox0mUHngB1Gx1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LyyyoHyVVygA9sFTiv5SWaaUR2E3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Lz3Pu5AOFbQLTA8cIqRAmjPy8qw1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/LziLApJbcWWu3MzbIL8k6mLdyFK2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/M1RgcbGDbWbsxNkmPHlrh9J9n572.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/M3mk9u8tIBUCavOhsxcGej5s9Vg2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/M43FaHpw1ScIi97eG6LBx2fBaJ92.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/M7fB5i9Pj0Xh2wrlgUYZw47wojo1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/M83FFhneUdgbJXOFLi17GtpM8B43.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/M8Y156MBhmYtI8n9jopclvzzK362.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MBFsLtO6sIf2SGCEfNT2K91gLcy1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MCyZwW6oHlddq3Cy7QRwPHw5gof1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MEEGIoNSX4exg4oIL3Q9MdysPJq1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MEw5YvFJ1GekU8biV6qQMPV2CDo2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MF5f99sONpcYl5fYsVzh32XwSmm2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MGvc85QJD7PFeYxoAeTxsiq4wHr1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MKb4BFUuYAZfOtzGlAz1UwNzo6R2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MOZTqX513FYB68gCZJ2cE0jHjTG3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MQSayo88HXcUcse3I8S4Fp3V52C2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MSqyNEX5gYfLNib5Lim9IyDnNVu2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MVhuzBxevwRieaQMwOCfiyCCzUK2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MViWQGORcQfI5lGwqT4CDXP9iHG3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MXVuW7mecgTkOLUIH7zETZopKkw1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MYN9ST6rk6TEgAp5DXGEgZmu6JY2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MaJ7xxBo22SHULIdQjnWzrc6uCf1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MbCfQyWYGIeZ5m0BCTeiM1oi7282.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MeUiOR3KHJOGkU0rpWsA5oiBt672.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MjbZoe5Xl6gQAFFZAjORLjIZoC93.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Ml6JGK0BGDYiU7CulDVQnD065BI3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MnRYYa6FN4VLwxLmTCQ05UPqmsW2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MqI9F85OYqVh99FcQEHSFPPLDka2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Ms3fiiaGeta2PNzjXEE3iMBmh1h1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MtXoTPXYhUaIX0skM8V3roaz2B22.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MvMha3CRSic03lfuBh8UIj7k3ak1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MwT3St0uIWhMDTJwcQIRmcFUwk62.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Mx0Ij186LMVXmLB3xX54QCAbyhu1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/MxWWtrKw3RcNjG0Rmrw9Rt4YD9E3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/Mze07Z8CKrheFGZun75Hcgp4TH02.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/N0YQy11YpgTDM6243yERZXmKVas2.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/N1orpaThfMaEneE3dbfn3DZ604Z2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/N49IPlluNddotKfNlRNVJJ2Ad6E3.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/N5TW03mmoXTTHqfhENFFJgSA8ni1.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/N926xnCk8rTlXrPA1dleXFO4XMJ3.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/NAL6D2MCyQbiZUGtdQixl39IH3X2.cough-heavy.wav",
+   "labels": "/m/07rwj01"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/NBD8pzxLyyYZs8wul5W6UUKBZbz1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/NKfo9DcpbQeYHlZ6pHDOwRx08i72.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  },
+  {
+   "wav": "/Users/zmoad/Documents/Course/06.AST_Audio/cough-heavy/NPwHtrWOTPgBVHkElhwB91qJXts1.cough-heavy.wav",
+   "labels": "/m/07rwj00"
+  }
+ ]
+}
