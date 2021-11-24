@@ -3,6 +3,7 @@ import numpy as np
 import os
 import tqdm
 import random
+import argparse
 from torchnet import meter
 from tqdm import tqdm_notebook
 from pathlib import Path
@@ -93,9 +94,13 @@ def setup_seed(seed):
 
 
 if __name__ == '__main__':
-    util.load_data('distribution/')
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--data_dir", type=str, default='distribution/')
+    parser.add_argument("--label", type=str, default='combined_data_clean2.csv/')
+    args = parser.parse_args()
+    util.load_data(args.data_dir)
     setup_seed(0)
-    data_label = util.label_preprocessing('combined_data_clean2.csv')
+    data_label = util.label_preprocessing(args.label)
     dict_data = util.preprocess_table('dataset/', data_label)
     data_label.sort_values(by=['id'], inplace=True)
     train = util.dict_slice(dict_data, 0, math.floor(0.8 * len(dict_data)))
