@@ -96,7 +96,7 @@ def setup_seed(seed):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument("--data_dir", type=str, default='distribution/')
-    parser.add_argument("--label", type=str, default='combined_data_clean2.csv/')
+    parser.add_argument("--label", type=str, default='combined_data_clean2.csv')
     args = parser.parse_args()
     util.load_data(args.data_dir)
     setup_seed(0)
