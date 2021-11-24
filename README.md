@@ -102,7 +102,19 @@ python main.py --data_dir={data_dir} --label={label}
 
 After running the code, the processed dataset which used for input of the GRU model would be stored in the dataset folder.
 
+## LSTM
 
+Environment: Python 3.7, torch, numpy, sklearn
+
+### Run the code
+
+```bash
+python main.py --base_dir /data/lingyun/coswara-data/ --hidden_dim 64 --num_layers 4 --dropout 0 --optimizer adam --lr 0.001
+```
+
+--base_dir: the base directory of the coswara dataset
+
+More examples can be found in [run.sh](./LSTM/run.sh).
 
 ---
 
