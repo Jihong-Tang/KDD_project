@@ -56,9 +56,11 @@ Python 3.6, torch, torchnet, pandas, sklearn, tqdm
 
 # Run the code
 ```
-python main.py --data_dir={dir that store the MFCC preprocessed data} --label={the csv file that store the preprocessed labels and other informations}
+python main.py --data_dir={data_dir} --label={label}
 ```
 
---data_dir= 'distribution/' by defult
+--data_dir: Dir that store the MFCC preprocessed data, 'distribution/' by defult
 
---label='combined_data_clean2.csv' by defult
+--label: The csv file that store the preprocessed labels and other informations, 'combined_data_clean2.csv' by defult
+
+After running the code, the processed dataset which used for input of the GRU model would be stored in the dataset folder.
