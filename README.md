@@ -46,3 +46,19 @@ python runTest.py
 ```
 
 # References
+
+
+
+# GRU
+Environment:
+
+Python 3.6, torch, torchnet, pandas, sklearn, tqdm
+
+# Run the code
+```
+python main.py --data_dir={dir that store the MFCC preprocessed data} --label={the csv file that store the preprocessed labels and other informations}
+```
+
+--data_dir= 'distribution/' by defult
+
+--label='combined_data_clean2.csv' by defult
