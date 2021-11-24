@@ -48,19 +48,11 @@ The models applied in this project are as follows:
 - LSTM
 - VGGish
 - transformer-AST
-<<<<<<< HEAD
 
 # Results
 
 The results are shown in the [final paper](https://github.com/Jihong-Tang/KDD_project/blob/main/paperwork/final_report/final_report.pdf).
 
-=======
-
-# Results
-
-The results are shown in the [final paper](https://github.com/Jihong-Tang/KDD_project/blob/main/paperwork/final_report/final_report.pdf).
-
->>>>>>> 3978d2ee0d3c408616dd0d5237d84cfce317db2f
 # template
 
 how to compile and execute
@@ -110,9 +102,6 @@ python main.py --data_dir={data_dir} --label={label}
 
 After running the code, the processed dataset which used for input of the GRU model would be stored in the dataset folder.
 
-<<<<<<< HEAD
-
-=======
 ## LSTM
 
 Environment: Python 3.7, torch, numpy, sklearn
@@ -126,7 +115,6 @@ python main.py --base_dir /data/lingyun/coswara-data/ --hidden_dim 64 --num_laye
 --base_dir: the base directory of the coswara dataset
 
 More examples can be found in [run.sh](./LSTM/run.sh).
->>>>>>> 3978d2ee0d3c408616dd0d5237d84cfce317db2f
 
 ---
 
